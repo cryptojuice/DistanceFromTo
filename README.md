@@ -1,14 +1,14 @@
 USAGE:
 ------
 
-**Command line:*
+**Command line:**
 
 python distancebetween.py "New York" "California"
 
 python distancebetween.py 10011 94024
 
 
-**Results:*
+**Results:**
 
 Start Location: New York, NY 10011, USA
 
